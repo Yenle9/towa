@@ -1,0 +1,64 @@
+{
+  "products": [
+    {
+      "id": "connector-housing-001",
+      "name": "High-Density Connector Housing",
+      "category": "Electrical Connectors",
+      "googleDocId": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+      "googleDocUrl": "https://docs.google.com/document/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/preview",
+      "pdfUrl": "https://assets.cree-led.com/a/ds/h/HB-C4SMA.pdf",
+      "thumbnail": "/images/products/connector-housing-001-thumb.jpg",
+      "sku": "CH-001-24P",
+      "price": 2.50,
+      "currency": "USD",
+      "tags": ["connector", "housing", "high-density", "automotive"]
+    },
+    {
+      "id": "led-light-002",
+      "name": "High-Brightness LED Module",
+      "category": "PCBA/SMT Materials",
+      "googleDocId": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+      "googleDocUrl": "https://docs.google.com/document/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/preview",
+      "pdfUrl": "https://assets.cree-led.com/a/ds/h/HB-C4SMA.pdf",
+      "thumbnail": "/images/products/led-module-002-thumb.jpg",
+      "sku": "LED-002-12W",
+      "price": 15.00,
+      "currency": "USD",
+      "tags": ["led", "lighting", "high-brightness", "industrial"]
+    },
+    {
+      "id": "epoxy-resin-003",
+      "name": "High-Performance Epoxy Resin",
+      "category": "Adhesives & Tapes",
+      "googleDocId": "1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms",
+      "googleDocUrl": "https://docs.google.com/document/d/1BxiMVs0XRA5nFMdKvBdBZjgmUUqptlbs74OgvE2upms/preview",
+      "thumbnail": "/images/products/epoxy-resin-003-thumb.jpg",
+      "sku": "ER-003-1KG",
+      "price": 45.00,
+      "currency": "USD",
+      "tags": ["epoxy", "resin", "encapsulation", "potting"]
+    }
+  ],
+  "categories": [
+    {
+      "id": "electrical-connectors",
+      "name": "Electrical Connectors",
+      "description": "High-quality electrical connectors for various applications"
+    },
+    {
+      "id": "electronic-components",
+      "name": "Electronic Components",
+      "description": "Reliable electronic components for circuit design"
+    },
+    {
+      "id": "pcba-materials",
+      "name": "PCBA/SMT Materials",
+      "description": "Materials for printed circuit board assembly"
+    },
+    {
+      "id": "adhesives-tapes",
+      "name": "Adhesives & Tapes",
+      "description": "Specialized adhesives and tapes for electronics"
+    }
+  ]
+} 
